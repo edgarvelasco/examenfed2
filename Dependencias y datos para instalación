@@ -1,0 +1,7 @@
+Dependencias:
+
+body-parser
+cors
+express
+firebase
+nodemon
